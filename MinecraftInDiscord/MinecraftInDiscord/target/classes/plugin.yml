@@ -1,0 +1,4 @@
+name: MinecraftInDiscord
+version: '1.0-SNAPSHOT'
+main: org.example.mcplugin.minecraftindiscord.MinecraftInDiscord
+api-version: 1.19

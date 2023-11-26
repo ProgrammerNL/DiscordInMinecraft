@@ -1,0 +1,3 @@
+org\example\mcplugin\minecraftindiscord\MinecraftInDiscord.class
+org\example\mcplugin\minecraftindiscord\spigot_listeners\ChatListener.class
+org\example\mcplugin\minecraftindiscord\jda_listeners\MessageListener.class
